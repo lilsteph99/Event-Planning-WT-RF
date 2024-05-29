@@ -1,0 +1,22 @@
+{
+  "name": "cw2_wt_15751",
+  "version": "1.0.0",
+  "description": "This is a coursework of the second semester of Web Technology module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "00015751",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "pug": "^3.0.2"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
